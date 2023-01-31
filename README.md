@@ -1,3 +1,8 @@
+Hello Dr. Frezza
+
+I have completed the reading for this assignment
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
